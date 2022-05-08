@@ -113,7 +113,7 @@ form.error button {
 /*desktop*/ 
 @media screen and (min-width: 960px) {
     body {
-        background-image: url("images/bg-pattern-desktop.svg"), url("images/hero-desktop.jpg");
+        background-image: url("https://minmiller.github.io/apparel-coming-soon.github.io/bg-pattern-desktop.svg"), url("https://minmiller.github.io/apparel-coming-soon.github.io/hero-desktop.jpg");
         background-repeat: no-repeat, no-repeat; 
         background-size: 50%, ; 
         background-position: left top, right top;
